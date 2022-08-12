@@ -1,6 +1,6 @@
 ## News - ct-eQTL
 
-Add MuSiC function for estimations of cell type fractions. 2022-08-11
+Add MuSiC tutorial for estimations of cell type fractions. 2022-08-11
 
 The ct-eQTL coming soon: 2022-08-05 
 
