@@ -1,6 +1,7 @@
 ## News - ct-eQTL
 
 Add modified hdf5_demo.py script for extraction of SNP genotype data. 2022-08-12
+
 Add MuSiC tutorial for estimations of cell type fractions. 2022-08-11
 
 The ct-eQTL coming soon: 2022-08-05 
