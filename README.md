@@ -10,7 +10,7 @@ The ct-eQTL coming soon: 2022-08-05
 # [Welcome to ct-eQTL](https://jasonxu.shinyapps.io/ct-eQTL)
 ct-eQTL: A database for identification of cell-type-interaction eQTLs in *Arabidopsis thaliana*
 
-![图片](https://user-images.githubusercontent.com/11934986/184053906-01322ba8-a7d8-4a08-a2de-9380cedca417.png)
+![图片](https://user-images.githubusercontent.com/11934986/184502287-04b9a354-a809-405f-bbe8-9fe3d41f402b.png)
 
 ## A schematic diagram of *cis*-eQTLs(ci) identification
 ![图片](https://user-images.githubusercontent.com/11934986/183028468-17ad674b-7445-4cf4-a30a-3c1d27ccaa3a.png)
