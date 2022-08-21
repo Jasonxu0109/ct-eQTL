@@ -1,5 +1,7 @@
 ## News - ct-eQTL
 
+ct-eQTL website is online!!!. 2022-08-21
+
 Add eQTL mapping tutorial. 2022-08-14
 
 Add modified hdf5_demo.py script for extraction of SNP genotype data. 2022-08-12
