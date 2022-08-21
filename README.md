@@ -1,6 +1,6 @@
 ## News - ct-eQTL
 
-ct-eQTL website is online!!!. 2022-08-21
+ct-eQTL website is online. The web server address is https://jasonxu.shinyapps.io/ct-eQTL/. 2022-08-21
 
 Add eQTL mapping tutorial. 2022-08-14
 
