@@ -27,5 +27,3 @@ ct-eQTL: A database for identification of cell-type-interaction eQTLs in *Arabid
 Please cite the following papers if you used ct-eQTL in your research.  
 
 Chaoqun Xu, Ling-Yu Song, Ying Zhou, Dong-Na Ma, Qian-Su Ding, Ze-Jun Guo, Jing Li, Shi-Wei Song, Lu-Dan Zhang, Hai-Lei Zheng. (2022) ct-eQTL: A database for identification of cell-type-interaction eQTLs in *Arabidopsis thaliana*.
-
-Xu, C., Ma, D., Ding, Q., Zhou, Y., and Zheng, H.-L. (2022) PlantPhoneDB: A manually curated pan-plant database of ligand-receptor pairs infers cell-cell communication. **_Plant Biotechnology Journal_**, 2022, 20, doi: 10.1111/pbi.13893.
