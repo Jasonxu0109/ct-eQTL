@@ -1,4 +1,4 @@
-#### genotype
+#### genotype (http://1001genomes.org/data/GMI-MPI/releases/v3.1/SNP_matrix_imputed_hdf5/)
 import h5py
 import numpy as np
 import pandas as pd
