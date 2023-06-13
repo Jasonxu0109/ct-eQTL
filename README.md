@@ -1,5 +1,7 @@
 ## News - ct-eQTL
 
+#### Chaoqun Xu<sup>1,4</sup>, Ling-Yu Song<sup>1,4</sup>, Ying Zhou<sup>2,4</sup>, Dong-Na Ma<sup>1,3</sup>, Qian-Su Ding<sup>1</sup>, Ze-Jun Guo<sup>1</sup>, Jing Li<sup>1</sup>, Shi-Wei Song<sup>1</sup>, Lu-Dan Zhang1, Hai-Lei Zheng<sup>1,*</sup>. Integration of eQTL and GWAS analysis uncovers a genetic regulation of natural ionomic variation in Arabidopsis.(*Plant Cell Reports*; Impact Factor 4.964; **accepted** )
+
 ct-eQTL website is online. The web server address is https://jasonxu.shinyapps.io/ct-eQTL/. 2022-08-21
 
 Add eQTL mapping tutorial. 2022-08-14
