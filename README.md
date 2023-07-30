@@ -2,9 +2,9 @@
 
 Our article "Integration of eQTL and GWAS analysis uncovers a genetic regulation of natural ionomic variation in *Arabidopsis*" was Published Online. 
 To access the article, please click the following link:
-https://link.springer.com/article/10.1007/s00299-023-03042-5
+https://link.springer.com/article/10.1007/s00299-023-03042-5 2023-07-30
 
-#### Chaoqun Xu<sup>1,4</sup>, Ling-Yu Song<sup>1,4</sup>, Ying Zhou<sup>2,4</sup>, Dong-Na Ma<sup>1,3</sup>, Qian-Su Ding<sup>1</sup>, Ze-Jun Guo<sup>1</sup>, Jing Li<sup>1</sup>, Shi-Wei Song<sup>1</sup>, Lu-Dan Zhang<sup>1</sup>, Hai-Lei Zheng<sup>1,*</sup>. Integration of eQTL and GWAS analysis uncovers a genetic regulation of natural ionomic variation in Arabidopsis.(*Plant Cell Reports*; Impact Factor 6.2; **accepted** )
+#### Chaoqun Xu<sup>1,4</sup>, Ling-Yu Song<sup>1,4</sup>, Ying Zhou<sup>2,4</sup>, Dong-Na Ma<sup>1,3</sup>, Qian-Su Ding<sup>1</sup>, Ze-Jun Guo<sup>1</sup>, Jing Li<sup>1</sup>, Shi-Wei Song<sup>1</sup>, Lu-Dan Zhang<sup>1</sup>, Hai-Lei Zheng<sup>1,*</sup>. Integration of eQTL and GWAS analysis uncovers a genetic regulation of natural ionomic variation in Arabidopsis.(*Plant Cell Reports*; Impact Factor 6.2; **accepted** ) 2023-06-12
 
 ct-eQTL website is online. The web server address is https://jasonxu.shinyapps.io/ct-eQTL/. 2022-08-21
 
