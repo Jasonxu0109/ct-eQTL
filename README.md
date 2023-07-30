@@ -32,6 +32,4 @@ ct-eQTL: A database for identification of cell-type-interaction eQTLs in *Arabid
 # Cite
 Please cite the following papers if you used ct-eQTL in your research.  
 
-Chaoqun Xu, Ling-Yu Song, Ying Zhou, Dong-Na Ma, Qian-Su Ding, Ze-Jun Guo, Jing Li, Shi-Wei Song, Lu-Dan Zhang, Hai-Lei Zheng. (2023) ct-eQTL: A database for identification of cell-type-interaction eQTLs in *Arabidopsis thaliana*.
-
 Chaoqun Xu<sup>1,4</sup>, Ling-Yu Song<sup>1,4</sup>, Ying Zhou<sup>2,4</sup>, Dong-Na Ma<sup>1,3</sup>, Qian-Su Ding<sup>1</sup>, Ze-Jun Guo<sup>1</sup>, Jing Li<sup>1</sup>, Shi-Wei Song<sup>1</sup>, Lu-Dan Zhang<sup>1</sup>, Hai-Lei Zheng<sup>1,*</sup>. Integration of eQTL and GWAS analysis uncovers a genetic regulation of natural ionomic variation in *Arabidopsis*.
